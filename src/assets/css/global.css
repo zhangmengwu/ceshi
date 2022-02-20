@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+}
+
+
+/* 解决cascader-menu的bug */
+
+.el-cascader-menu {
+    height: 240px;
+}
+
+.el-button {
+    margin-bottom: 15px;
+}
+
+.el-card {
+    margin-top: 15px;
+}
